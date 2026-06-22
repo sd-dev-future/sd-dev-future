@@ -43,7 +43,7 @@
 </p>
                               
 
-## 🧩
+## 
 ![Python](https://img.shields.io/badge/Python-red)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
