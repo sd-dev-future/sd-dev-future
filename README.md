@@ -26,7 +26,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Python](https://img.shields.io/badge/Python-green)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sd-dev-future&show_icons=true)
+## Most used lnguages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sd-dev-future&layout=compact)
 
