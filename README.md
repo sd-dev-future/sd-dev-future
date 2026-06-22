@@ -17,5 +17,5 @@
 
 ## All you need is A cup of Coffee ☕ and a Playlist  🎵 
 
-![coding gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s2MWd2dHBkcDViMzdxb25kbmwyb2pkMW5xc3g4YjdkY2ttb3dwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif)
+![coding gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWluMDNiOXRqejl1OW9kdW9jZXZncW8yOG0ycmd0eWo2MDU4enduOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5NE2L7vdWZ9V39Sjq8/giphy.gif)
 
