@@ -21,10 +21,12 @@
 
 ## Skills
 
+![Python](https://img.shields.io/badge/Python-green)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Python](https://img.shields.io/badge/Python-green)
+![PHP](https://img.shields.io/badge/PHP-purple)
+
 
 ## Most used lnguages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sd-dev-future&layout=compact)
