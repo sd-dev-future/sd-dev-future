@@ -21,17 +21,6 @@
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-red)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-purple)
-![Java](https://img.shields.io/badge/Java-brown)
-![MySQL](https://img.shields.io/badge/MySQL-pink)
-![MongoDB](https://img.shields.io/badge/MongoDB-Darkgreen)
-![Nodejs](https://img.shields.io/badge/Nodejs-red)
-
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,7 +42,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original-wordmark.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
                               
-          
+
+## 🧩
+![Python](https://img.shields.io/badge/Python-red)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![Java](https://img.shields.io/badge/Java-brown)
+![MySQL](https://img.shields.io/badge/MySQL-pink)
+![MongoDB](https://img.shields.io/badge/MongoDB-Darkgreen)
+![Nodejs](https://img.shields.io/badge/Nodejs-red)
 
 ## Most used lnguages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sd-dev-future&layout=compact)
