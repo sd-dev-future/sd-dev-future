@@ -29,7 +29,7 @@
 ![Java](https://img.shields.io/badge/Java-brown)
 ![MySQL](https://img.shields.io/badge/MySQL-pink)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Darkgreen)
-![Node-js](https://img.shields.io/badge/Node-js-green)
+![Nodejs](https://img.shields.io/badge/Nodejs-green)
 
 ## Most used lnguages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sd-dev-future&layout=compact)
