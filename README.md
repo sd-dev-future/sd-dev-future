@@ -5,7 +5,8 @@
 🌱 I’m currently learning
 - Python
 - Web development
-- Java
+- Python based projects
+- AI in python
 
 🚀 Projects :
 - BlushBay ( An e-commerce website with fontend and backend )
