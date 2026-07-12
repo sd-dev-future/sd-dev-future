@@ -9,6 +9,7 @@
 - AI in python
 
 🚀 Projects :
+- QR code generator using
 - BlushBay ( An e-commerce website with fontend and backend )
 - Full functioning Calculator
 - Python 100+ problem solving challenge (with explanations )
